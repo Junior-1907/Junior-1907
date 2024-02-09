@@ -10,7 +10,7 @@
 ---
 ## 🎓 Estudando...
 
-<br> <br> 
+<br>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
@@ -30,6 +30,7 @@
 <br> <br> 
 ## ⭐ GitHub Stats
 
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=250 align="left" src="https://github-readme-stats.vercel.app/api?username=Junior-1907&theme=dark&show_icons=true&card_width=500"/>
